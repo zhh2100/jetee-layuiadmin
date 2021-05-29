@@ -1,0 +1,20 @@
+{
+  "name": "jetee_layuiadmin",
+  "description": "通用后台管理系统模板",
+  "main": "dist",
+  "authors": [
+    "yingliang <112738102@qq.com>"
+  ],
+  "license": "LPPL",
+  "keywords": [
+    "layuiadmin"
+  ],
+  "homepage": "www.layui.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
